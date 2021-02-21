@@ -1,4 +1,4 @@
-# shl_v1- bot
+# jani bot
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
