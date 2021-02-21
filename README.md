@@ -9,7 +9,7 @@ Simple WhatsApp Bot
 > pkg install ffmpeg
 > pkg install imagemagick
 > git clone https://github.com/Awa-200/Bot.git
-> cd shl_v1
+> cd Bot
 > npm install
 ```
 ###### Run
@@ -22,7 +22,7 @@ Simple WhatsApp Bot
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
 > git clone https://github.com/Awa-200/Bot.git
-> cd shl_v1
+> cd Bot
 > npm install
 ```
 ###### Run
